@@ -1,0 +1,28 @@
+_repo: The-tunnel-thru-the-air-b-Or-Looking-back-from-1940_74988
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gann, William Delbert
+    gutenberg_agent_id: '57759'
+    url: http://www.gutenberg.org/2009/agents/57759
+description: ''
+gutenberg_issued: '2024-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74988'
+language: en
+pgterms:marc904: https://archive.org/details/tunnelthruairorl00gann/page/n3/mode/2up
+pgterms:marc905: 20230316001806gann
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Aaron Adrignola, Tim Lindell, Graeme Mackreth and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bFinancial Guardian Publishing Co., $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The tunnel thru the air : $b Or, Looking back from 1940'
+url: http://www.gutenberg.org/ebooks/74988

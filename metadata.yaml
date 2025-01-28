@@ -1,11 +1,16 @@
 _repo: The-tunnel-thru-the-air-b-Or-Looking-back-from-1940_74988
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74988-h/images/cover.jpg
 creator:
   author:
     agent_name: Gann, William Delbert
     gutenberg_agent_id: '57759'
     url: http://www.gutenberg.org/2009/agents/57759
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74988#The-tunnel-thru-the-air-b-Or-Looking-back-from-1940
 gutenberg_issued: '2024-12-29'
 gutenberg_type: Text
 identifiers:
